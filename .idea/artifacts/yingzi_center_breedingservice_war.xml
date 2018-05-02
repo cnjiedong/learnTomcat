@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yingzi-center-breedingservice:war">
+    <output-path>$PROJECT_DIR$/yingzi-center-breeding/yingzi-center-breedingservice/target</output-path>
+    <root id="archive" name="yingzi-center-breedingservice.war">
+      <element id="artifact" artifact-name="yingzi-center-breedingservice:war exploded" />
+    </root>
+  </artifact>
+</component>

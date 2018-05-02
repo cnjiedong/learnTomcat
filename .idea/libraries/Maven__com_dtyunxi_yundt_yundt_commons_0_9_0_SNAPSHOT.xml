@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.dtyunxi.yundt:yundt-commons:0.9.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dtyunxi/yundt/yundt-commons/0.9.0-SNAPSHOT/yundt-commons-0.9.0-20180319.092924-37.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dtyunxi/yundt/yundt-commons/0.9.0-SNAPSHOT/yundt-commons-0.9.0-20180319.092924-37-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dtyunxi/yundt/yundt-commons/0.9.0-SNAPSHOT/yundt-commons-0.9.0-20180319.092924-37-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
