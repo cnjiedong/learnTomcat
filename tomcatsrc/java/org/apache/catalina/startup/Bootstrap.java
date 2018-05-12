@@ -510,8 +510,13 @@ public final class Bootstrap {
      */
     private void setCatalinaHome() {
 
-        if (System.getProperty(Globals.CATALINA_HOME_PROP) != null)
+        //修改源码，查看catalina.home值,这个值可以在jvm参数里设置，也可以在系统变量里设置
+        if (System.getProperty(Globals.CATALINA_HOME_PROP) != null){
+            String catalinaHome = System.getProperty(Globals.CATALINA_HOME_PROP);
+            log.debug("catalina.home:" + catalinaHome);
             return;
+        }
+
         File bootstrapJar =
             new File(System.getProperty("user.dir"), "bootstrap.jar");
         if (bootstrapJar.exists()) {
