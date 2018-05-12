@@ -4,9 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/tomcatsrc/Tomcat7.0.iml" filepath="$PROJECT_DIR$/tomcatsrc/Tomcat7.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learnTomcat.iml" filepath="$PROJECT_DIR$/.idea/learnTomcat.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yingzi-center-breeding/yingzi-center-breeding.iml" filepath="$PROJECT_DIR$/yingzi-center-breeding/yingzi-center-breeding.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yingzi-center-breeding/yingzi-center-breedingapi/yingzi-center-breedingapi.iml" filepath="$PROJECT_DIR$/yingzi-center-breeding/yingzi-center-breedingapi/yingzi-center-breedingapi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yingzi-center-breeding/yingzi-center-breedingservice/yingzi-center-breedingservice.iml" filepath="$PROJECT_DIR$/yingzi-center-breeding/yingzi-center-breedingservice/yingzi-center-breedingservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet3.0/servlet3.0.iml" filepath="$PROJECT_DIR$/servlet3.0/servlet3.0.iml" />
     </modules>
   </component>
 </project>

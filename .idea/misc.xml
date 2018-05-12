@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/servlet3.0" />
     <file type="web" url="file://$PROJECT_DIR$/yingzi-center-breeding/yingzi-center-breedingservice" />
   </component>
   <component name="MavenProjectsManager">
@@ -8,7 +9,13 @@
       <list>
         <option value="$PROJECT_DIR$/yingzi-center-breeding/pom.xml" />
         <option value="$PROJECT_DIR$/tomcatsrc/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet3.0/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/yingzi-center-breeding/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />

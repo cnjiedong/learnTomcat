@@ -137,7 +137,12 @@
                 <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs"
                        prefix="localhost_access_log." suffix=".txt"
                        pattern="%h %l %u %t &quot;%r&quot; %s %b"/>
-                <Context path="yingzi" docBase="/Users/jiedong/workspace/learnTomcat/yingzi-center-breeding/yingzi-center-breedingservice/target/yingzi-center-breedingservice.war"></Context>
+<!--
+                <Context path="yz" docBase="/Users/jiedong/workspace/learnTomcat/yingzi-center-breeding/yingzi-center-breedingservice/target/yingzi-center-breedingservice.war"></Context>
+-->
+                <Context path="servlet3" docBase="/Users/jiedong/workspace/learnTomcat/servlet3.0/target/servlet3.war"></Context>
+
+
             </Host>
         </Engine>
     </Service>
